@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/effective-datastream.iml" filepath="$PROJECT_DIR$/effective-datastream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio-common/nio-common.iml" filepath="$PROJECT_DIR$/nio-common/nio-common.iml" />
+    </modules>
+  </component>
+</project>
